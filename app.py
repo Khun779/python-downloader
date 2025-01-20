@@ -7,6 +7,8 @@ import logging
 from dotenv import load_dotenv
 from urllib.parse import quote as url_quote  # Updated import
 
+# This is a new comment to ensure changes are recognized by Git
+
 # Load environment variables from .env file if running locally
 load_dotenv()
 
